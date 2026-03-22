@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "mcp__playwright",
       "Bash(npm run:*)",
       "Bash(taskkill /PID 75756 /F)",
       "Bash(cmd /c \"chcp 65001 && taskkill /PID 75756 /F\")",

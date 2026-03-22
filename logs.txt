@@ -11,3 +11,17 @@
  GET / 200 in 8295ms
  ✓ Compiled /favicon.ico in 430ms
  GET /favicon.ico?favicon.45db1c09.ico 200 in 720ms
+ GET / 200 in 173ms
+ GET / 200 in 96ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 310ms
+ GET / 200 in 97ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 280ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 803ms
+ POST /api/chat 200 in 5938ms
+ ✓ Compiled in 197ms
+ GET / 200 in 93ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 294ms
+ GET / 200 in 96ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 271ms
+ POST /api/chat 200 in 6657ms
